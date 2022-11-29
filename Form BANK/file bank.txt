@@ -1,0 +1,21 @@
+Tersimpan
+No Kartu = 3264239347
+Jenis ATM = Setor Tunai
+Bank = BSI
+Nama Pemilik = Bagus
+Nama File Gambar = fotobagus.jpeg
+
+Tersimpan
+No Kartu = 3264239347
+Jenis ATM = Tarik Tunai
+Bank = BSI
+Nama Pemilik = Bagus
+Nama File Gambar = null
+
+Tersimpan
+No Kartu = 3264239347
+Jenis ATM = Non-Tunai
+Bank = BSI
+Nama Pemilik = Bagus
+Nama File Gambar = null
+
